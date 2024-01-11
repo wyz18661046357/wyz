@@ -1,0 +1,42 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/list/list",
+    "pages/about/about",
+    "pages/hot/hot"
+  ],
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "/imgs/film-close.png",
+        "selectedIconPath": "/imgs/film-open.png"
+      },      
+      {
+        "pagePath": "pages/hot/hot",
+        "text": "榜单",
+        "iconPath": "/imgs/hot.png",
+        "selectedIconPath": "/imgs/hot1.png"
+      },
+      {
+        "pagePath": "pages/about/about",
+        "text": "我的",
+        "iconPath": "/imgs/me-close.png",
+        "selectedIconPath": "/imgs/me-open.png"
+      }
+
+    ]
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#42bd56",
+    "navigationBarTitleText": "温芸仲",
+    "navigationBarTextStyle": "white"
+  },
+  "style": "v2",
+  "sitemapLocation": "sitemap.json",
+  "usingComponents": {
+    "film-item":"/components/film-item/film-item"
+  }
+}

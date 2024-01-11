@@ -1,0 +1,7 @@
+function starImg(index,score){
+  return (index+1)*2 <= score ? '/imgs/star-open.png' : '/imgs/star-close.png'
+}
+
+module.exports= {
+  starImg:starImg
+}

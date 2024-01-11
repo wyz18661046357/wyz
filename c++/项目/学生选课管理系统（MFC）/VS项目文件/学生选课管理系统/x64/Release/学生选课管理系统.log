@@ -1,0 +1,46 @@
+﻿  Xue_Sheng_Yu_Xuan_Ke_Cheng.cpp
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(39,1): warning C4005: “CREATEPROCESS_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(283,1): message : 参见“CREATEPROCESS_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(40,1): warning C4005: “MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(288,1): message : 参见“MINIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(224,1): warning C4005: “ISOLATIONAWARE_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(284,1): message : 参见“ISOLATIONAWARE_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(313,1): warning C4005: “ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(285,1): message : 参见“ISOLATIONAWARE_NOSTATICIMPORT_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(348,1): warning C4005: “ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(286,1): message : 参见“ISOLATIONPOLICY_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(398,1): warning C4005: “ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(287,1): message : 参见“ISOLATIONPOLICY_BROWSER_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(545,1): warning C4005: “MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(289,1): message : 参见“MAXIMUM_RESERVED_MANIFEST_RESOURCE_ID”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(610,1): warning C4005: “RT_MANIFEST”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(282,1): message : 参见“RT_MANIFEST”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1540,1): warning C4005: “_WIN32_IE”: 宏重定义
+D:\vs\Visual Studio IDE\VC\Tools\MSVC\14.35.32215\atlmfc\include\afxdlgs.h(30,1): message : 参见“_WIN32_IE”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1574,1): warning C4005: “IDI_APPLICATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11073,1): message : 参见“IDI_APPLICATION”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1577,1): warning C4005: “IDI_HAND”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11074,1): message : 参见“IDI_HAND”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1580,1): warning C4005: “IDI_QUESTION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11075,1): message : 参见“IDI_QUESTION”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1583,1): warning C4005: “IDI_EXCLAMATION”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11076,1): message : 参见“IDI_EXCLAMATION”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1586,1): warning C4005: “IDI_ASTERISK”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11077,1): message : 参见“IDI_ASTERISK”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1588,1): warning C4005: “IDI_WINLOGO”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11079,1): message : 参见“IDI_WINLOGO”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1590,1): warning C4005: “IDI_SHIELD”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(11082,1): message : 参见“IDI_SHIELD”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1665,1): warning C4005: “HTERROR”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2564,1): message : 参见“HTERROR”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1666,1): warning C4005: “PWR_FAIL”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2074,1): message : 参见“PWR_FAIL”的前一个定义
+D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\resource.h(1668,1): warning C4005: “HTTRANSPARENT”: 宏重定义
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.22000.0\um\winuser.h(2565,1): message : 参见“HTTRANSPARENT”的前一个定义
+  pch.cpp
+  正在生成代码
+  0 of 441 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  学生选课管理系统.vcxproj -> D:\vs\vs项目\学生选课管理系统\VS项目文件\学生选课管理系统\x64\Release\学生选课管理系统.exe

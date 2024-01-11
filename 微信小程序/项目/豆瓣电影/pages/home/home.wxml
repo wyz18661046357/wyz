@@ -1,0 +1,20 @@
+<!-- 1 -->
+<view class="film">
+  <include wx:if="{{ !types[0] }}" src="/templates/loading/loading" />
+<!-- 2 -->
+  <view class="file-type" wx:for="{{types}}" wx:for-item="type" wx:key="index">
+  <!-- 3 标题 start-->
+    <view class="type-title">
+      <text>{{type.title}}</text>
+      <navigator url="/pages/list/list?method={{type.method}}">查看更多 ></navigator>
+    </view>
+    <!-- 3 标题 end -->
+    <!-- 电影列表 start-->
+    <scroll-view scroll-x class="type-film">
+      <film-item class="film-item" wx:for="{{type.list}}" film="{{item}}" wx:key="index"></film-item>
+    </scroll-view>
+    <!-- 电影列表 end -->
+  </view>
+  <!-- 2 end -->
+</view>
+<!-- 1 end -->

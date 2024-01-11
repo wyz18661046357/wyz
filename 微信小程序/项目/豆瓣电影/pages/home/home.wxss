@@ -1,0 +1,40 @@
+.film {
+  width: 100%;
+}
+/* 电影类别 */
+.file-type {
+  background-color: white;
+  margin-bottom: 20rpx;
+}
+/* 标题 */
+.type-title {
+  padding: 26rpx 0;
+  font-size: 28rpx;
+  font-weight: bold;
+  /* 大标题字体颜色 */
+  color: #494949;
+}
+.type-title text {
+  border-left: 6rpx solid #42bd56;
+  padding-left: 26rpx;
+}
+
+.type-title navigator {
+  float: right;
+  /* 查看更多字体颜色 */
+  color: #05b512;
+  padding-right: 26rpx;
+  font-weight: normal;
+}
+/* 电影列表 */
+.type-film {
+  width: 100%;
+  white-space: nowrap;
+}
+.film-item {
+  display: inline-block;
+  width: 200rpx;
+  padding: 0 12rpx;
+}
+
+

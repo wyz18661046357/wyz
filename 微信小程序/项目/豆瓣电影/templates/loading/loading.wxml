@@ -1,0 +1,5 @@
+<!-- loading,wxml -->
+<view class="loading">
+  <image src="/imgs/loading.gif" />
+  <view>数据加载......</view>
+</view>

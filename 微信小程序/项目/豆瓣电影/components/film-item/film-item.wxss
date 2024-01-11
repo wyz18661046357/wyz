@@ -1,0 +1,29 @@
+.film-img {
+  width: 100%;
+  height: 280rpx;
+  border-radius: 10rpx;
+}
+.film-name {
+  font-size: 24rpx;
+  font-weight: bold;
+  /* 电影名称字体颜色 */
+  color: #191919;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.film-star {
+  width: 100%;
+}
+.star-img {
+  width: 22rpx;
+  height: 22rpx;
+  margin: 0 3rpx; 
+}
+.star-score {
+  font-size: 20rpx;
+  /*分数字体颜色 */
+  color: #828282;
+  padding-left: 10rpx;
+}

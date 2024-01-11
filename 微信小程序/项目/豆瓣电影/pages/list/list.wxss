@@ -1,0 +1,29 @@
+.list{
+  width: 100%;
+}
+.list-type {
+  background-color: white;
+  margin-bottom: 22rpx;
+}
+.list-title {
+  padding: 26rpx 0;
+  font-size: 28rpx;
+  color: #494949;
+}
+.list-title text {
+  border-left: #42bd56;
+  padding-left: 26rpx;
+  font-weight: bold;
+}
+.film-list {
+  width: 100%;
+  padding: 0 12rpx;
+  /* 包含边框 */
+  box-sizing: border-box;
+}
+.film-item {
+  display: inline-block;
+  width: 33.33%;
+  padding: 0 12rpx;
+  box-sizing: border-box;
+}

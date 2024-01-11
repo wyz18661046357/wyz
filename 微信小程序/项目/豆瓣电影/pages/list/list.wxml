@@ -1,0 +1,10 @@
+<view class="list">
+  <view class="list-type">
+    <view class="list-title">
+      <text>{{films.title}}</text>
+    </view>
+    <view class="film-list">
+      <film-item class="film-item" wx:for="{{films.list}}" film="{{item}}" wx:key="index"></film-item>
+    </view>
+  </view>
+</view>
